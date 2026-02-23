@@ -1,0 +1,18 @@
+LAPTOP SETUP PROCEDURE
+
+First, unpack the laptop and verify all components are included. Then, connect the power adapter.
+
+1. Press power button to start
+2. Select language and region
+
+Next, configure the following:
+- Set up WiFi connection
+- Create user account
+- Install security updates
+
+Check if antivirus software is installed. If yes, update definitions. If no, install recommended antivirus.
+
+Finally:
+• Test all hardware functions
+• Verify network connectivity
+• Create system backup

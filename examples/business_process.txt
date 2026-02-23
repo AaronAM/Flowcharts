@@ -1,0 +1,11 @@
+Step 1: Customer submits inquiry through website form
+Step 2: System validates inquiry data
+Step 3: Check if inquiry type requires immediate attention
+Step 4a: If urgent, assign to priority queue
+Step 4b: If standard, assign to regular queue
+Step 5: Specialist reviews inquiry details
+Step 6: Determine if additional information needed
+Step 7: Contact customer for clarification if needed
+Step 8: Process inquiry and prepare response
+Step 9: Send response to customer
+Step 10: Close inquiry ticket

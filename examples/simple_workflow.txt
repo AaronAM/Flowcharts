@@ -1,0 +1,8 @@
+1. Start the application
+2. Load user configuration
+3. Check if user is authenticated
+4. If authenticated, display dashboard
+5. If not authenticated, show login screen
+6. Process user requests
+7. Save session data
+8. Exit application

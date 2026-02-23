@@ -1,0 +1,5 @@
+Connect the USB drive to the laptop port. Press F12 during startup to access boot menu.
+Select the USB device from the list of boot options. The system will boot into the installation environment.
+Check if all hardware components are detected properly. If everything is detected correctly, proceed with the installation.
+If any hardware is not detected, restart the system and check connections. Configure the network adapter settings.
+Install necessary device drivers. Verify the installation was successful. Restart the computer to complete setup.
